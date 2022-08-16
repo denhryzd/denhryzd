@@ -24,6 +24,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
+
 ## My Highlighted Skills
 <table>
 <tr>
