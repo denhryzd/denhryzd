@@ -65,7 +65,7 @@
 </div>
   
 # My Activity on Github
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=codemaster0528&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=codemaster0528)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 # Where to find me
 <p>
