@@ -1,6 +1,5 @@
-# Welcome to my profile 👋
-## I'm Denys Hryzd
-<p>A passionate self-taught full stack web developer and a freelance software engineer from Ukraine. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.  </p>
+## I'm Denys Hryzd and Full Stack Web/Blockchain Developer 👋
+Full Stack Developer with 5 years of experience developing complex web applications. Skilled in React, Node, Django, Python, and Web3/Blockchain technologies. Strong experience in designing and developing scalable and efficient systems.
 
 ## Language and Frameworks
 <p>
@@ -57,19 +56,19 @@
 ---
 
 # My Github Trophys
-[![trophy](https://github-profile-trophy.vercel.app/?username=codemaster0528)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=denhryzd)](https://github.com/ryo-ma/github-profile-trophy)
 
 # My Github Status
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=codemaster0528&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Denys Hryzd" />
+    <img src="https://github-readme-stats.vercel.app/api?username=denhryzd&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Denys Hryzd" />
 </div>
   
 # My Activity on Github
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=codemaster0528&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=denhryzd&theme=react)](https://github.com/denhryzd/github-readme-activity-graph)
   
 # Where to find me
 <p>
-  <a href="https://github.com/codemaster0528" target="_blank">
+  <a href="https://github.com/denhryzd" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
 </p>
