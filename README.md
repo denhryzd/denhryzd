@@ -63,9 +63,6 @@ Full Stack Developer with 5 years of experience developing complex web applicati
     <img src="https://github-readme-stats.vercel.app/api?username=denhryzd&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Denys Hryzd" />
 </div>
   
-# My Activity on Github
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=denhryzd&theme=react)](https://github.com/denhryzd/github-readme-activity-graph)
-  
 # Where to find me
 <p>
   <a href="https://github.com/denhryzd" target="_blank">
