@@ -1,4 +1,4 @@
-## I'm Denys Hryzd and Full Stack Web/Blockchain Developer 👋
+## Full Stack Web/Blockchain Engineer 👋
 Full Stack Developer with 5 years of experience developing complex web applications. Skilled in React, Node, Django, Python, and Web3/Blockchain technologies. Strong experience in designing and developing scalable and efficient systems.
 
 ## Language and Frameworks
@@ -21,51 +21,4 @@ Full Stack Developer with 5 years of experience developing complex web applicati
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-</p>
-
-
-## My Highlighted Skills
-<table>
-<tr>
-<td><img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></td>
-<td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="100"></td>
-<td><img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></td>
-<td><img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></td>
-<td><img width="100" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></td>
-<td><img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></td>
-<td><img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></td>
-<td><img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></td>
-<td><img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></td>
-<td><img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></td>
-<td><img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></td></tr></table>
-
-## Blockchain Technology
-<table border="0">
-  <tr>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-  </tr>  
-</table>
-
----
-
-# My Github Trophys
-[![trophy](https://github-profile-trophy.vercel.app/?username=denhryzd)](https://github.com/ryo-ma/github-profile-trophy)
-
-# My Github Status
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=denhryzd&show_icons=false&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Denys Hryzd" />
-</div>
-  
-# Where to find me
-<p>
-  <a href="https://github.com/denhryzd" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
 </p>
